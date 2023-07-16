@@ -4,6 +4,7 @@ date: 2023-07-11 00:00 +0000
 categories: [HackThebox, EJPT]
 tags: [CTFs, Hack the box, personal blog, WriteUP,ctf, Hawk-HTB, hackthebox, webshell, sudo, ejpt-like] 
 author: Fabb05 
+image: https://raw.githubusercontent.com/FabV05/files/main/Hawk/info.png
 ---
 
 ## Hawk(HTB) Writeup w/o Metasploit
