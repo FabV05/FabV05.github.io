@@ -7,7 +7,6 @@ author: Fabb05
 image:
   path: https://raw.githubusercontent.com/FabV05/files/main/Hawk/info.png
   alt: img of the machine
-
 ---
 
 ## Hawk(HTB) Writeup w/o Metasploit
