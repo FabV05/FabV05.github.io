@@ -14,8 +14,6 @@ image:
 
 ## Machine information
 
-![Image](https://raw.githubusercontent.com/FabV05/files/main/Hawk/info.png)
-
 | Caracteristica | Hawk |
 | :------------: | :--: |
 | Release Date:  | 14 July 2018 |
