@@ -1,8 +1,8 @@
 --- 
 title: "Baby(VL) Writeup" 
 date: 2023-07-11 00:00 +0000 
-categories: [Vunlab, EJPT]
-tags: [CTFs, Vunlab, personal blog, WriteUP,ctf, Sync.VL, Vunlab, ejpt-like] 
+categories: [Vulnab, EJPT]
+tags: [CTFs, Vulnab, personal blog, WriteUP,ctf, Baby.VL, Vulnab, ejpt-like] 
 author: Fabb05 
 image:
   path: https://raw.githubusercontent.com/FabV05/files/main/Baby(VL)/spaces_I3I73FFqB6GvT8N5Mt1N_uploads_PAoGV9AEbnSdglj00d01_baby_slide.png
@@ -12,7 +12,7 @@ image:
 
 
 
-##  Baby (VunLab)
+##  Baby (Vulnab)
 
 ## Machine information
 
@@ -21,7 +21,7 @@ image:
 |       TTL       | 127 |     |
 |  Difficulty:   |  Easy   |     |
 |      issue       |  Missconfiguration       |     |
-|      From      | Vunlab  |     |
+|      From      | Vulnab  |     |
 | IP               |      10.10.64.243   |     |
 
 
@@ -317,7 +317,7 @@ With this, we can find the root flag VL{b8512958}.
 
 ## Conclution 
 
-In conclusion, "Baby" on the VunLab environment holds significant offensive value. This machine offers an excellent opportunity to enhance skills in reconnaissance, enumeration, and exploitation in Windows environments, particularly in the context of Active Directory.
+In conclusion, "Baby" on the Vulnab environment holds significant offensive value. This machine offers an excellent opportunity to enhance skills in reconnaissance, enumeration, and exploitation in Windows environments, particularly in the context of Active Directory.
 
 It is crucial to emphasize the importance of adhering to secure practices while configuring services, such as avoiding anonymous access when unnecessary, using strong passwords, and ensuring that users do not possess unnecessary privileges. The configuration vulnerability that allowed anonymous access to the LDAP service proved to be a critical point for gathering information and advancing in privilege escalation.
 
