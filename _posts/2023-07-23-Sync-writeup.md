@@ -2,7 +2,7 @@
 title: "Baby(VL) Writeup" 
 date: 2023-07-11 00:00 +0000 
 categories: [Vulnab, EJPT]
-tags: [CTFs, Vulnab, personal blog, WriteUP,ctf, Baby.VL, Vulnab, ejpt-like] 
+tags: [CTFs, Vulnab, personal blog, WriteUP,ctf, Sync.VL, Vulnab, ejpt-like] 
 author: Fabb05 
 image:
   path: https://raw.githubusercontent.com/FabV05/files/main/Baby(VL)/spaces_I3I73FFqB6GvT8N5Mt1N_uploads_PAoGV9AEbnSdglj00d01_baby_slide.png
@@ -12,7 +12,7 @@ image:
 
 
 
-##  Baby (Vulnab)
+##  Baby (VunLab)
 
 ## Machine information
 
