@@ -12,20 +12,20 @@ image:
 
 
 
-##  Baby (Vulnab)
+#  Baby (Vulnab)
 
 ## Machine information
 
-| Caracteristica |  Baby   |     |
+| Feature  |  Baby   |     |
 |:--------------:|:-------:| --- |
 |       TTL       | 127 |     |
 |  Difficulty:   |  Easy   |     |
-|      issue       |  Missconfiguration       |     |
+|      issue       |  Misconfiguration       |     |
 |      From      | Vulnab  |     |
 | IP               |      10.10.64.243   |     |
 
 
-## Inforeation Recon
+## Information Recon
 
 ### Nmap Summary
 
@@ -233,7 +233,7 @@ After investigating, I discovered that AD has a script that resets everything ev
 ```
 By using this, we can log into the machine, and we found the first flag VL{b2c61************}.
 
-## Privilage Escalation
+## Privilege Escalation
 
 Now that we are a user, we need to find a way to become a privileged user. To do this, we need to follow these steps:
 
@@ -315,7 +315,7 @@ evil-winrm -i 10.10.64.243 -u 'Administrator' -H '8d992faed38128ae85e95fa35868bb
 
 With this, we can find the root flag VL{b8512958}.
 
-## Conclution 
+## Conclusion 
 
 In conclusion, "Baby" on the Vulnab environment holds significant offensive value. This machine offers an excellent opportunity to enhance skills in reconnaissance, enumeration, and exploitation in Windows environments, particularly in the context of Active Directory.
 

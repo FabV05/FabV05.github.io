@@ -9,11 +9,11 @@ image:
   alt: img of the machine
 ---
 
-## Hawk(HTB) Writeup w/o Metasploit
+# Hawk(HTB) Writeup w/o Metasploit
 
 ## Machine information
 
-| Caracteristica | Hawk |
+| Feature  | Hawk |
 | :------------: | :--: |
 | Release Date:  | 14 July 2018 |
 | Retire Date:   | 1 December 2018 |
